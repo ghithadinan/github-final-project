@@ -1,7 +1,7 @@
-$ git checkout main
+ghitha@github-final-project:~$ git checkout main
 Switched to branch 'main'
 
-$ git merge bug-fix-typo
+ghitha@github-final-project:~$ git merge bug-fix-typo
 Updating 34e0912..78acb32
 Fast-forward
  README.md | 2 +-
