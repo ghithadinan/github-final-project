@@ -1,6 +1,8 @@
-curl https://api.github.com/repos/ghithadinan/simple-interest-calculator
+$ curl https://api.github.com/repos/ghithadinan/simple-interest-calculator
 
 {
+  "id": 123456,
+  "full_name": "ghithadinan/simple-interest-calculator",
   "fork": true,
   "parent": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
